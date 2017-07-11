@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "35154514372",
+    "firebase_url": "https://fotos-be6d5.firebaseio.com",
+    "project_id": "fotos-be6d5",
+    "storage_bucket": "fotos-be6d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35154514372:android:c5417cfb0f55ff67",
+        "android_client_info": {
+          "package_name": "com.android.eva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35154514372-21ili8vqjgnacq4s0irr0j0dpcuq3u5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwLGRm1fYrOBSISOxwHLTeyYM07atAo7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35154514372:android:14cc85ab31f815fe",
+        "android_client_info": {
+          "package_name": "com.android.eva.fotos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35154514372-6irk8fcerf73u3t240a8d6klks65tqem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.eva.fotos",
+            "certificate_hash": "1ebfc158713ec2f9716818123df735a653300321"
+          }
+        },
+        {
+          "client_id": "35154514372-21ili8vqjgnacq4s0irr0j0dpcuq3u5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwLGRm1fYrOBSISOxwHLTeyYM07atAo7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35154514372-21ili8vqjgnacq4s0irr0j0dpcuq3u5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
